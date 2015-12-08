@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocalChat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="activity_login_demo">login_demo</string>
+    <string name="activity_grid_demo">gridview_demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="item1">001</string>
+    <string name="item2">002</string>
+    <string name="item3">003</string>
+    <string name="item4">004</string>
+    
+    
+
+</resources>
