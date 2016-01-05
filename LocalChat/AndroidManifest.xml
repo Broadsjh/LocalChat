@@ -26,6 +26,8 @@
         </activity>
         <activity android:name="com.ffchat.localchat.LoginActivity" >
         </activity>
+        <activity android:name="com.ffchat.localchat.TabActivity" >
+        </activity>
     </application>
 
 </manifest>
