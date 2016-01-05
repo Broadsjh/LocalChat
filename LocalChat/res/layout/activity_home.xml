@@ -22,12 +22,29 @@
             android:padding="10dp"
             android:text="@string/activity_login_demo"
             android:textColor="@color/black" />
+        
+        
+        <TextView
+            android:id="@+id/tv_chatroom"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/round_normal"
+              android:layout_below="@+id/tv_login_demo"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/activity_chatroom"
+            android:textColor="@color/black" />
+        
+        
 
         <TextView
             android:id="@+id/tv_gridview_demo"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/tv_login_demo"
+            android:layout_below="@+id/tv_chatroom"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
             android:layout_marginRight="10dp"
