@@ -24,6 +24,7 @@ public class HomeActivity extends Activity implements OnClickListener{
 		tv_login_demo.setOnClickListener(this);
 		tv_gridview_demo.setOnClickListener(this);
 		tv_chatroom.setOnClickListener(this);
+		//hello;
 	}
 	
 	
